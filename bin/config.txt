@@ -1,0 +1,2 @@
+Processado=/Processado
+Não Processado=/NaoProcessado
